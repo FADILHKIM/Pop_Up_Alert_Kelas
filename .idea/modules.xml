@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Android-Schedule_Alert.iml" filepath="$PROJECT_DIR$/.idea/modules/Android-Schedule_Alert.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Android-Schedule_Alert.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Android-Schedule_Alert.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Android-Schedule_Alert.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Android-Schedule_Alert.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Android-Schedule_Alert.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Android-Schedule_Alert.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Android-Schedule_Alert.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Android-Schedule_Alert.app.unitTest.iml" />
+    </modules>
+  </component>
+</project>
